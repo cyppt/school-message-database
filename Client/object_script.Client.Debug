@@ -1,0 +1,13 @@
+debug/cglobal.o
+debug/main.o
+debug/mainwindow.o
+debug/search.o
+debug/widget_change.o
+debug/widget_resign.o
+debug/widget_upload.o
+debug/qrc_login.o
+debug/moc_mainwindow.o
+debug/moc_search.o
+debug/moc_widget_change.o
+debug/moc_widget_resign.o
+debug/moc_widget_upload.o

@@ -1,0 +1,13 @@
+release/cglobal.o
+release/main.o
+release/mainwindow.o
+release/search.o
+release/widget_change.o
+release/widget_resign.o
+release/widget_upload.o
+release/qrc_login.o
+release/moc_mainwindow.o
+release/moc_search.o
+release/moc_widget_change.o
+release/moc_widget_resign.o
+release/moc_widget_upload.o
